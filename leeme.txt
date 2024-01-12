@@ -1,0 +1,4 @@
+En el siguienete documento se hablara de como se tiene que instalar cada tipo de usuario, lo primero es guardar el archivo "".php, "".php, "".php y guardar cada uno de ellos en (disco local->xampp->htdocs[creando previamente una carpeta en 
+donde se va a guardar todos los archivos del proyecto]), a continuacion se prosigue a ejecutar el "".php accediendo a localhost (previamente activando los servicios de xampp), a la hora de registrarse como alumno se pediran los datos de 
+usuario, contraseña, etc eso se va a guardar en la base de datos en (php myAdmin), lo mismo va a pasar con los usuarios de administrador y profesor, en la parte de alumno se tendra el acceso a curso, material didactico, evaluacion y 
+quitar curso, mientras que el profesor va a poder impartir curso, ver material, dar de alta a alumno, quitar alumno y evaluar, en la parte de administrador va a poder subir curso  
